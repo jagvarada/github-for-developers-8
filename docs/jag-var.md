@@ -3,3 +3,4 @@
 - San Jose, CA
 - Italian
 - GitHub
+- Red
